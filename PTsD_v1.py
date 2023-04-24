@@ -62,7 +62,7 @@ t.fd(35)
 t.right(90)
 t.fd(30)
 t.left(90)
-t.position() # incepe guritza
+t.position() # incepe gura
 t.circle(20,90)
 t.fd(10)
 t.right(90)
